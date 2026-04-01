@@ -16,8 +16,8 @@ This project focuses on processing and visualizing radar data using Python with 
 This project was developed as part of my learning in radar signal processing and embedded systems. It replicates visualization concepts similar to mmWave radar demo tools.
 
 ## Outputs
-![Heatmap](outputs/heatmap.png)
-![Plots](outputs/plots.png)
+![Heatmap](Outputs/Azi_Range_Heatmap.png)
+![Plots](Outputs/Graph.png)
 
 ## Note
 This project is built for learning purposes and does not include any proprietary or confidential data.
